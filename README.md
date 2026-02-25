@@ -1,4 +1,4 @@
-[yair-kahan-landing.html](https://github.com/user-attachments/files/25541224/yair-kahan-landing.html)
+index.html
 <!DOCTYPE html>
 <html lang="he" dir="rtl">
 <head>
@@ -353,8 +353,8 @@ section{padding:4rem 1.5rem}.hero-content{padding:2rem 1.5rem 3.5rem}
 <section class="quote-section">
   <div class="container reveal">
     <div class="quote-mark">״</div>
-    <p class="quote-text">המוח שלכם משתנה גם בלי שתשימו לב. כל הרגל שאתם מחזקים וכל אתגר שאתם בוחרים לקחת בונה לכם במוח “מסלול” חדש. מה שאתם עושים היום מעצב את היכולות שלכם מחר..</p>
-    <div class="quote-author">— <strong>יאיר כהאן</strong>, מתוך ההרצאה</div>
+    <p class="quote-text">המוח שלכם משתנה בלי שתשימו לב. כל הרגל שאתם מחזקים וכל אתגר שאתם בוחרים לקחת בונה לכם במוח “מסלול” חדש. מה שאתם עושים היום מעצב את היכולות שלכם מחר..</p>
+    <div class="quote-author"> <strong>יאיר כהאן</strong>, מתוך ההרצאה</div>
   </div>
 </section>
 
