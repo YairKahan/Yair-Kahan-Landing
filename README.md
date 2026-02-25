@@ -1,4 +1,4 @@
-index.html
+
 <!DOCTYPE html>
 <html lang="he" dir="rtl">
 <head>
@@ -6,7 +6,7 @@ index.html
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>יאיר כהאן | המוח בשירות משמעותי: הרצאות מדעי המוח</title>
 <meta name="description" content="יאיר כהאן: מרצה בתחום מדעי המוח. הרצאות על פרפקציוניזם, חוסן נפשי ולקיחת אחריות למכינות, בתי ספר, צבא וחברות הייטק.">
-<meta name="keywords" content="יאיר כהאן, הרצאות, נוירוסיינס, מדעי המוח, פרפקציוניזם, חוסן נפשי, מכינות, הייטק">
+<meta name="keywords" content="יאיר כהאן, הרצאות, מדעי המוח, פרפקציוניזם, חוסן נפשי, מכינות, הייטק">
 <meta property="og:title" content="יאיר כהאן | המוח בשירות משמעותי">
 <meta property="og:description" content="הרצאות מבוססות מדעי המוח על פרפקציוניזם, חוסן נפשי ולקיחת אחריות">
 <meta property="og:type" content="website">
@@ -245,7 +245,7 @@ section{padding:4rem 1.5rem}.hero-content{padding:2rem 1.5rem 3.5rem}
   </div>
   <div class="hero-overlay"></div>
   <div class="hero-content">
-    <div class="hero-label">נוירוסיינס · הרצאות · חוסן נפשי</div>
+    <div class="hero-label">מדעי המוח · הרצאות · חוסן נפשי</div>
     <h1>יאיר כהאן
       <span>המוח בשירות משמעותי: איך לקיחת אחריות קשורה להתפתחות החשיבה</span>
     </h1>
@@ -312,7 +312,7 @@ section{padding:4rem 1.5rem}.hero-content{padding:2rem 1.5rem 3.5rem}
       <div class="topic-card reveal reveal-delay-3">
         <div class="topic-icon">🌱</div>
         <h3>צמיחה אישית מבוססת מדע</h3>
-        <p>הזדמנויות לצמיחה אישית הטמונות בשירות משמעותי: ללא תלות בסוג היחידה. כלים מעשיים מנוירוסיינס.</p>
+        <p>הזדמנויות לצמיחה אישית הטמונות בשירות משמעותי: ללא תלות בסוג היחידה. כלים מעשיים ממדעי המוח.</p>
       </div>
     </div>
   </div>
